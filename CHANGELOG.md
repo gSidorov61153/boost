@@ -5,3 +5,4 @@
 - Initial release
 - fix: link the usage section
 - docs: add a note about the defaults
+- fix: fix a small wording issue
